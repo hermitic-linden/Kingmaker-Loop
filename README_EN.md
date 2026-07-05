@@ -6,7 +6,7 @@
 
 Guessing, discussing, trial and error, handoff — an AI's thinking chain is long and messy. That's normal, and so is humans'. But—
 
-**Never hand the draftsman to the lord.**
+**Never hand the sketchboard to the lord.**
 
 Kingmaker Loop builds a lightweight agent state machine loop as an auditable patch for Codex, CC, Openclaw and other Harnesses. Rather than asking "Grill Me," why not white-box the AI? Humans govern from above, intervening at any moment.
 
