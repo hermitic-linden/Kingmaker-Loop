@@ -6,7 +6,7 @@
 
 Guessing, discussing, trial and error, handoff — an AI's thinking chain is long and messy. That's normal, and so is humans'. But—
 
-**Never hand the draftsman to the lord.**
+**Never hand the sketchboard to the lord.**
 
 Kingmaker Loop builds a lightweight agent state machine loop as an auditable patch for Codex, CC, Openclaw and other Harnesses. Rather than asking "Grill Me," why not white-box the AI? Humans govern from above, intervening at any moment.
 
@@ -36,7 +36,7 @@ Parse rules from Kingmaker Loop.md
 
 ## Quick Start
 
-1. Put the content of 谋主Loop.md into the agent prompt
+1. Put the content of Kingmaker Loop.md into the agent prompt
 2. Place `ARCHITECT.md` in the project root
 3. Chat with the agent, let it define the project for the first time
 4. Fill layer by layer, advance, review
